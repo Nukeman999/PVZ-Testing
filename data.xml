@@ -23,12 +23,12 @@
   </MSN>
   
   <upsell>
-    <enabled>true</enabled>
+    <enabled>false</enabled>
     <url>http://www.popcap.com/games/pvz/?icid=pvz_upsell_ingame</url>
   </upsell>
   
   <cheats>
-    <enabled>false</enabled>
+    <enabled>true</enabled>
     
     <bind keyCombo="`">globalPause</bind>
     <!-- Framework controls -->
