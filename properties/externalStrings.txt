@@ -2971,7 +2971,7 @@ Survival mode unlocked!
 Play it from the main menu!
 
 [CREDITS_GAMENAME]
-PLANTS VS. ZOMBIES
+PLANTS VS. MEMES
 
 [CREDITS_NAMES1]
 {CREDITS1}GEORGE FAN
@@ -3148,7 +3148,7 @@ only way you can buy his stuff is with
 the coins you earn in the full version!
 
 [UPSELL_4_IMG2_HEADING]
-Almanac
+The Meme Archive
 
 [UPSELL_4_IMG2_TEXT]
 Handy, some would say vital, information
@@ -3157,10 +3157,10 @@ zombies in the game, including their
 strengths and weaknesses!
 
 [LEVEL_INTRO_READY]
-Ready...
+Lets...
 
 [LEVEL_INTRO_SET]
-Set...
+Fucking...
 
 [LEVEL_INTRO_PLANT]
-PLANT!
+GO!
