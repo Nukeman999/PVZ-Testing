@@ -325,7 +325,7 @@ Flag Zombie
 Conehead Zombie
 
 [BUCKETHEAD_ZOMBIE]
-Buckethead Zombie
+Golden Buckethead Zombie
 
 [POLE_VAULTING_ZOMBIE]
 Pole Vaulting Zombie
